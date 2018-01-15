@@ -506,8 +506,6 @@ body {
 }
 .article {
   margin: 50px 0;
-  max-height: 260px;
-  overflow: hidden;
 }
 .article-inner {
   overflow: hidden;
@@ -1373,8 +1371,4 @@ pre .javascript .function {
 .tagcloud a {
   margin-right: 5px;
   display: inline-block;
-}
-.article-type-post{
-  height: 260px;
-  overflow: hidden;
 }
