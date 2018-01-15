@@ -506,6 +506,8 @@ body {
 }
 .article {
   margin: 50px 0;
+  max-height: 260px;
+  overflow: hidden;
 }
 .article-inner {
   overflow: hidden;
